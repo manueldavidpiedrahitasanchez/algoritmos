@@ -1,2 +1,2 @@
 # algoritmos
-este repositorio contiene el uso algoritmos con python enca 24
+este repositorio contiene el uso algoritmos con python e
